@@ -5,3 +5,6 @@ SELECT name, street FROM custoners WHERE city = 'Porto Alegre'
 ### Atividade 2602
 <img width="446" height="202" alt="Image" src="https://github.com/user-attachments/assets/efd507a4-9a11-4cba-973b-db1ceb519a7a" />
 SELECT name FROM custoners WHERE state = 'RS'
+#### Atividade 2607
+<img width="322" height="185" alt="Image" src="https://github.com/user-attachments/assets/5586f64e-29e1-4b9d-933b-e5e6fb46defb" />
+SELECT DISTINCT cit FROM providers ORDER BY city ASC 
