@@ -14,3 +14,7 @@ SELECT DISTINCT cit FROM providers ORDER BY city ASC
 ##### Atividade 2608
 <img width="342" height="176" alt="Image" src="https://github.com/user-attachments/assets/c7b0a404-2080-4885-9d6a-d7dface3d98b" />
 SELECT MAX(price) AS "Maior Preco", MIN(price) AS "Menor Preco" FROM produtcs;
+
+##### Atividade 2615
+<img width="333" height="168" alt="Image" src="https://github.com/user-attachments/assets/904b5e5f-90fc-4e20-9ba0-f3d5de2fb446" />
+SELECT DISTINCT city FROM custoners 
