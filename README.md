@@ -18,3 +18,7 @@ SELECT MAX(price) AS "Maior Preco", MIN(price) AS "Menor Preco" FROM produtcs;
 ##### Atividade 2615
 <img width="333" height="168" alt="Image" src="https://github.com/user-attachments/assets/904b5e5f-90fc-4e20-9ba0-f3d5de2fb446" />
 SELECT DISTINCT city FROM custoners 
+
+###### Atividade 2617
+<img width="263" height="142" alt="Image" src="https://github.com/user-attachments/assets/f576d9ac-3b75-46cd-b64c-fb457eab15a7" />
+SELECT prod.name, prov.nameFROM products prod JOIN providers prov ON prov.id = prod.id providers AND prov.name = 'Ajax SA'
